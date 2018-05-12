@@ -1,0 +1,30 @@
+_repo: Heroes-of-the-Middle-West--The-French_25556
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25556-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Catherwood, Mary Hartwell
+    birthdate: 1847
+    deathdate: 1902
+    gutenberg_agent_id: '2247'
+    url: http://www.gutenberg.org/2009/agents/2247
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Hartwell_Catherwood
+description: The discoverers of the Upper Mississippi; Bearers of the Calumet; The
+  man with the copper hand; The undespairing Norman; French settlements; The last
+  great Indian.
+gutenberg_issued: '2008-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F350.5'
+- !lcsh 'Mississippi River Valley -- Discovery and exploration'
+- !lcsh 'Mississippi River Valley -- History -- To 1803'
+title: 'Heroes of the Middle West: The French'
+url: http://www.gutenberg.org/ebooks/25556
